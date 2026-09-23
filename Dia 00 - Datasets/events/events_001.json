@@ -1,0 +1,5 @@
+{"event_id":"e001","pedido_id":"2001","cliente_id":"C001","produto_id":"P001","event_type":"purchase","valor_total":120.50,"event_ts":"2026-08-01T10:00:00"}
+{"event_id":"e002","pedido_id":"2002","cliente_id":"C002","produto_id":"P003","event_type":"purchase","valor_total":89.90,"event_ts":"2026-08-01T10:01:00"}
+{"event_id":"e003","pedido_id":"2003","cliente_id":"C003","produto_id":"P002","event_type":"purchase","valor_total":156.75,"event_ts":"2026-08-01T10:02:00"}
+{"event_id":"e004","pedido_id":"2004","cliente_id":"C001","produto_id":"P004","event_type":"purchase","valor_total":75.00,"event_ts":"2026-08-01T10:03:00"}
+{"event_id":"e005","pedido_id":"2005","cliente_id":"C004","produto_id":"P001","event_type":"purchase","valor_total":210.30,"event_ts":"2026-08-01T10:04:00"}
